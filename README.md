@@ -1,3 +1,3 @@
-#Quiz App
+#QUIZ APP 
 
-Basic Implementation of Quiz 
+Simple Quiz app with mutliple choice Question Format using js
